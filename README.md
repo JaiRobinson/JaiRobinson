@@ -1,5 +1,5 @@
 <p align="center">
-  Hi I'm Jai a 3D environment and achitectual visualisation artist, no focusing on learning character art
+  Hi I'm Jai a 3D environment and achitectual visualisation artist, now focusing on learning character art
 </p>
 
 <!---
