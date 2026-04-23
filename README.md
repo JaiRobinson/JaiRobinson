@@ -1,6 +1,5 @@
 <p align="center">
-  Hi I'm Jai a 3D environment and achitectual visualisation artist, now focusing on learning character art
-</p>
+  Hi I'm Jai a 3D artist
 
 <!---
 JaiRobinson/JaiRobinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
